@@ -64,4 +64,4 @@ It demonstrates the full machine learning pipeline — from data cleaning and ex
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DiyaShah/house-price-prediction.git
+   git clone https://github.com/Diya455/house-price-prediction.git
